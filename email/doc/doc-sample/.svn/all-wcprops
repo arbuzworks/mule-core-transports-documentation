@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/raa.mls/!svn/ver/31/trunk/email/demo
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/raa.mls/!svn/ver/25/trunk/email/demo/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/raa.mls/!svn/ver/25/trunk/email/demo/.project
+END
+mule-project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/raa.mls/!svn/ver/25/trunk/email/demo/mule-project.xml
+END

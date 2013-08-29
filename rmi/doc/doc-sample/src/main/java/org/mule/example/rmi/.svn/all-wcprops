@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/raa.mls/!svn/ver/65/trunk/rmi/demo/src/main/java/org/mule/example/rmi
+END
+MuleRMIFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/raa.mls/!svn/ver/65/trunk/rmi/demo/src/main/java/org/mule/example/rmi/MuleRMIFactory.java
+END
+Hello.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/raa.mls/!svn/ver/65/trunk/rmi/demo/src/main/java/org/mule/example/rmi/Hello.java
+END
+HelloImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/raa.mls/!svn/ver/65/trunk/rmi/demo/src/main/java/org/mule/example/rmi/HelloImpl.java
+END

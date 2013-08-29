@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/raa.mls/!svn/ver/97/trunk/swiftmq_jms/demo
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/raa.mls/!svn/ver/97/trunk/swiftmq_jms/demo/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/raa.mls/!svn/ver/97/trunk/swiftmq_jms/demo/.project
+END
+mule-project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/raa.mls/!svn/ver/97/trunk/swiftmq_jms/demo/mule-project.xml
+END

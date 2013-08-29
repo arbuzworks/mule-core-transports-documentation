@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/raa.mls/!svn/ver/54/trunk/exel_csv/demo
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/raa.mls/!svn/ver/48/trunk/exel_csv/demo/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/raa.mls/!svn/ver/44/trunk/exel_csv/demo/.project
+END
+mule-project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/raa.mls/!svn/ver/44/trunk/exel_csv/demo/mule-project.xml
+END

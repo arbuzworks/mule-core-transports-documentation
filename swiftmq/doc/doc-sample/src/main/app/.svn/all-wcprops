@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/raa.mls/!svn/ver/97/trunk/swiftmq_jms/demo/src/main/app
+END
+mule-deploy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/raa.mls/!svn/ver/97/trunk/swiftmq_jms/demo/src/main/app/mule-deploy.properties
+END
+mule-app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/raa.mls/!svn/ver/97/trunk/swiftmq_jms/demo/src/main/app/mule-app.properties
+END
+swiftmq_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/raa.mls/!svn/ver/97/trunk/swiftmq_jms/demo/src/main/app/swiftmq_demo.xml
+END

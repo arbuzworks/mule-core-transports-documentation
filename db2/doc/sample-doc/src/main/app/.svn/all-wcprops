@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/raa.mls/!svn/ver/30/trunk/jdbc-db2/demo/src/main/app
+END
+mule-deploy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/raa.mls/!svn/ver/30/trunk/jdbc-db2/demo/src/main/app/mule-deploy.properties
+END
+mule-app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/raa.mls/!svn/ver/30/trunk/jdbc-db2/demo/src/main/app/mule-app.properties
+END
+jdbc_db2_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/raa.mls/!svn/ver/30/trunk/jdbc-db2/demo/src/main/app/jdbc_db2_demo.xml
+END

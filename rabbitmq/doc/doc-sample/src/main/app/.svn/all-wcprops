@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/raa.mls/!svn/ver/104/trunk/rabbitmq/demo/src/main/app
+END
+rabbitmq_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/raa.mls/!svn/ver/104/trunk/rabbitmq/demo/src/main/app/rabbitmq_demo.xml
+END
+mule-deploy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/raa.mls/!svn/ver/103/trunk/rabbitmq/demo/src/main/app/mule-deploy.properties
+END
+mule-app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/raa.mls/!svn/ver/103/trunk/rabbitmq/demo/src/main/app/mule-app.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/raa.mls/!svn/ver/86/trunk/jboss_jms/demo/src/main/app
+END
+mule-deploy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/raa.mls/!svn/ver/86/trunk/jboss_jms/demo/src/main/app/mule-deploy.properties
+END
+mule-app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/raa.mls/!svn/ver/86/trunk/jboss_jms/demo/src/main/app/mule-app.properties
+END
+jboss_jms_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/raa.mls/!svn/ver/86/trunk/jboss_jms/demo/src/main/app/jboss_jms_demo.xml
+END

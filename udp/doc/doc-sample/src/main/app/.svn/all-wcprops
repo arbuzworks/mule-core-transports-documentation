@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/raa.mls/!svn/ver/61/trunk/udp/demo/src/main/app
+END
+demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/raa.mls/!svn/ver/61/trunk/udp/demo/src/main/app/demo.xml
+END
+mule-deploy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/raa.mls/!svn/ver/61/trunk/udp/demo/src/main/app/mule-deploy.properties
+END
+mule-app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/raa.mls/!svn/ver/61/trunk/udp/demo/src/main/app/mule-app.properties
+END

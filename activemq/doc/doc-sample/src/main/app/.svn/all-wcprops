@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/raa.mls/!svn/ver/79/trunk/active_mq/demo/src/main/app
+END
+mule-deploy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/raa.mls/!svn/ver/79/trunk/active_mq/demo/src/main/app/mule-deploy.properties
+END
+mule-app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/raa.mls/!svn/ver/79/trunk/active_mq/demo/src/main/app/mule-app.properties
+END
+activemq_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/raa.mls/!svn/ver/79/trunk/active_mq/demo/src/main/app/activemq_demo.xml
+END

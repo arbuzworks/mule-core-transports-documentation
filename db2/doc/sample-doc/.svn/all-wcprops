@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/raa.mls/!svn/ver/30/trunk/jdbc-db2/demo
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/raa.mls/!svn/ver/30/trunk/jdbc-db2/demo/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/raa.mls/!svn/ver/30/trunk/jdbc-db2/demo/.project
+END
+mule-project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/raa.mls/!svn/ver/30/trunk/jdbc-db2/demo/mule-project.xml
+END

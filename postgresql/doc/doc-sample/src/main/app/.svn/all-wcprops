@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/raa.mls/!svn/ver/80/trunk/jdbc-postgresql/demo/src/main/app
+END
+demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/raa.mls/!svn/ver/80/trunk/jdbc-postgresql/demo/src/main/app/demo.xml
+END
+mule-deploy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/raa.mls/!svn/ver/80/trunk/jdbc-postgresql/demo/src/main/app/mule-deploy.properties
+END
+mule-app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/raa.mls/!svn/ver/80/trunk/jdbc-postgresql/demo/src/main/app/mule-app.properties
+END
