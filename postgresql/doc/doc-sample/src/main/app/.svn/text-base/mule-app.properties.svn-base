@@ -1,3 +1,0 @@
-db.connection_string=jdbc:postgresql://localhost:5432/mulesoft
-db.user=username    
-db.password=password
