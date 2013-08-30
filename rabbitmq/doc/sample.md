@@ -1,6 +1,6 @@
 # RabbitMQ AMQP Connector
 
-The Mule AMQP cloud connector provides an easy way to interface with the Mule AMQP API from within the CloudHub™ environment. This connector allows users to utilize Mule AMQP capabilities without having to deal with the Mule AMQP API directly. The Mule AMQP cloud connector is a part of MuleSoft’s open-source suite of cloud connectors downloadable in Mule Studio.
+Mule AMQP connector provides an easy way to interface with different implementations of Advanced Message Queuing Protocol (AMQP) from within the Mule ESB or CloudHub™ environment. This connector allows users to utilize AMQP capabilities without having to deal with the AMQP APIs directly. Mule AMQP connector is a part of MuleSoft’s open-source suite of connectors downloadable in Mule Studio.
 
 ### Contents
 
