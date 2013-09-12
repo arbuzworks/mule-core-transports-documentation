@@ -13,7 +13,7 @@ The JDBC Connector allows you to send and receive messages with a database using
 [Step 6: Test listItems flow](#step-6-test-listitems-flow)  
 [Step 7: Create createItem flow](#step-7-create-createitem-flow)  
 [Step 8: Test createItem flow](#step-8-test-createitem-flow)  
-[Step 9: Create flows for rest actions (Update, Delete, Find by ID)](#step-9-create-flows-for-rest-actions-update-delete-find-by-id)  
+[Step 9: Create flows for the rest actions (Update, Delete, Find by ID)](#step-9-create-flows-for-the-rest-actions-update-delete-find-by-id)  
 [Step 10: Test updateItem, deleteItem and findById flows](#step-10-test-updateitem-deleteitem-and-findbyid-flows)  
 [Other Resources](#other-resources)  
 
@@ -211,13 +211,13 @@ You should see a log message on the console:
 
 *    Stop Mule server.  
 
-### Step 9: Create flows for the rest of actions (Update, Delete, Find by ID)
+### Step 9: Create flows for the rest actions (Update, Delete, Find by ID)
 
 *   In the same way as we created **createItem flow** you have to create **updateItem flow**, **deleteItem flow** and **findById flow**. You have to use **updateItem**, **deleteItem** and **findById** query keys to Update, Delete and Find by ID actions in the flows.
 
 ![Create rest flows](images/step9-1.png)
 
-### Step 10: Test  updateItem, deleteItem and findById flows
+### Step 10: Test updateItem, deleteItem and findById flows
 
 *    Run the project.
 *    Test each flow:

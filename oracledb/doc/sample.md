@@ -4,20 +4,21 @@ The Oracle JDBC Connector allows you to send and receive messages with a databas
 
 ### Contents 
 
-[Prerequisites](#prerequisites)    
-[Step 1: Prepare database](#step1)    
-[Step 2: Create Demo Project](#step2)   
-[Step 3: Configure application](#step3)  
-[Step 4: Create System Info flow](#step4)   
-[Step 5: Run project](#step5)   
-[Step 6: Test System Info flow](#step6)   
-[Step 7: Create listItems flow](#step7)     
-[Step 8: Test listItems flow](#step8)   
-[Step 9: Create createItem flow](#step9)   
-[Step 10: Test createItem flow](#step10)   
-[Step 11: Create flows for rest actions (Update, Delete, Find by ID)](#step11)   
-[Step 12: Test  updateItem, deleteItem and findById flows](#step12)   
-[Other Resources](#other)   
+[Prerequisites](#prerequisites)  
+[Step 1: Prepare database](#step-1-prepare-database)  
+[Step 2: Create Demo Project](#step-2-create-demo-project)  
+[Step 3: Configure application](#step-3-configure-application)  
+[Step 4: Create System Info flow](#step-4-create-system-info-flow)  
+[Step 5: Run project](#step-5-run-project)  
+[Step 6: Test System Info flow](#step-6-test-system-info-flow)  
+[Step 7: Create listItems flow](#step-7-create-listitems-flow)  
+[Step 8: Test listItems flow](#step-8-test-listitems-flow)  
+[Step 9: Create createItem flow](#step-9-create-createitem-flow)  
+[Step 10: Test createItem flow](#step-10-test-createitem-flow)  
+[Step 11: Create flows for the rest actions (Update, Delete, Find by ID)](#step-11-create-flows-for-the-rest-actions-update-delete-find-by-id)  
+[Step 12: Test updateItem, deleteItem and findById flows](#step-12-test-updateitem-deleteitem-and-findbyid-flows)  
+[Other Resources](#other-resources)  
+
 
 ### Prerequisites
 
@@ -279,13 +280,13 @@ You should see a log message on the console:
 
 *    Stop Mule server.  
 
-### Step 11: Create flows for rest of actions (Update, Delete, Find by ID)
+### Step 11: Create flows for the rest actions (Update, Delete, Find by ID)
 
 *   In the same way as we created **createItem flow** you have to create **updateItem flow**, **deleteItem flow** and **findById flow**. You have to use **updateItem**, **deleteItem** and **findById** query keys to Update, Delete and Find by ID actions in the flows.
 
 ![Create rest flows](images/step11-1.png)
 
-### Step 12: Test  updateItem, deleteItem and findById flows
+### Step 12: Test updateItem, deleteItem and findById flows
 
 *    Run the project.
 *    Test each flow:

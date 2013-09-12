@@ -4,15 +4,16 @@ Mule AMQP connector provides an easy way to interface with different implementat
 
 ### Contents
 
-[Prerequisites](#prerequisites)    
-[Step 1: Create Demo Project](#step1)  
-[Step 2: Configure AMQP connector](#step2)  
-[Step 3: Configure AJAX connector](#step3)  
-[Step 4: Create IncomeFlow flow](#step4)  
-[Step 5: Create OutcomeFlow flow](#step6)  
-[Step 6: Run project](#step7)  
-[Step 7: Test application](#step8)  
-[Other Resources](#other)  
+[Prerequisites](#prerequisites)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Configure AMQP connector](#step-2-configure-amqp-connector)  
+[Step 3: Configure AJAX connector](#step-3-configure-ajax-connector)  
+[Step 4: Create IncomeFlow flow](#step-4-create-incomeflow-flow)  
+[Step 5: Create OutcomeFlow flow](#step-5-create-outcomeflow-flow)  
+[Step 6: Run project](#step-6-run-project)  
+[Step 7: Test application](#step-7-test-application)  
+[Other Resources](#other-resources)  
+
 
 ### Prerequisites
 
