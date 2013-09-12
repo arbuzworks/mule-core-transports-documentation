@@ -2,16 +2,15 @@
 
 The RMI Connector can be used to send and receive Mule events over [JRMP](http://en.wikipedia.org/wiki/JRMP). This connector has a dispatcher that invokes an RMI method and a polling receiver that repeatedly does the same.
 
-### Contents
 [Prerequisites](#prerequisites)  
-[Step 1: Create Demo Project](#step1)  
-[Step 2: Implement RMI Server](#step2)   
-[Step 3: Add Security Policy](#step3)  
-[Step 4: Add Global Element](#step2)  
-[Step 5: Create RMI Flow](#step3)  
-[Step 6: Test RMI Flow](#step4)  
-[Flow XML](#flow)  
-[Other Resources](#resources)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Implement RMI Server](#step-2-implement-rmi-server)  
+[Step 3: Add Security Policy](#step-3-add-security-policy)  
+[Step 4: Add Global Element](#step-4-add-global-element)  
+[Step 5: Create RMI Flow](#step-5-create-rmi-flow)  
+[Step 6: Test RMI Flow](#step-6-test-rmi-flow)  
+[XML Flow](#xml-flow)  
+[Other Resources](#other-resources)  
 
 
 ### Prerequisites

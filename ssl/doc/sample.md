@@ -2,17 +2,16 @@
 
 SSL and TLS are alternative names for the same connector. (For simplicity, this page will refer to this connector only as SSL, but everything here applies to TLS as well.) This connector allows sending or receiving messages over SSL connections.  However, you may want to use the SSL connector directly if you require a specific protocol for reading the message payload that is not supported by one of these higher level protocols.
 
-### Contents 
+[Prerequisites](#prerequisites)  
+[Step 1: Generate a JKS key](#step-1-generate-a-jks-key)  
+[Step 2: Create Demo Project](#step-2-create-demo-project)  
+[Step 3: Configure application](#step-3-configure-application)  
+[Step 4: Create ssl_server flow](#step-4-create-ssl_server-flow)  
+[Step 5: Run project](#step-5-run-project)  
+[Step 6: Create ssl_client flow](#step-6-create-ssl_client-flow)  
+[Step 7: Test application](#step-7-test-application)  
+[Other Resources](#other-resources)  
 
-[Prerequisites](#prerequisites)    
-[Step 1: Generate a JKS key](#step1)    
-[Step 2: Create Demo Project](#step2)   
-[Step 3: Configure application](#step3)  
-[Step 4: Create ssl_server flow](#step4)   
-[Step 5: Run project](#step5)   
-[Step 6: Create ssl_client flow](#step6)   
-[Step 7: Test application](#step7)   
-[Other Resources](#other)   
 
 ### Prerequisites
 

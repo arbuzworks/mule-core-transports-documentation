@@ -260,7 +260,7 @@ You should see a log message on the console:
 
 ![Create rest flows](images/step11-1.png)
 
-### Step 12: Test  updateItem, deleteItem and findById flows
+### Step 12: Test updateItem, deleteItem and findById flows
 
 *    Run the project.
 *    Test each flow:

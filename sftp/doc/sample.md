@@ -4,18 +4,17 @@
 
 The SFTP Connector allows files to be read and written to and from directories over SFTP. Unlike the VFS Connector, it can handle large files because it streams message payloads. The SFTP connector can be used as an inbound or an outbound endpoint. Files can be retrieved from an SFTP server and processed as Mule messages, or Mule messages can be uploaded as files to an SFTP server.
 
-### Contents 
+[Prerequisites](#prerequisites)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Configure the application](#step-2-configure-the-application)  
+[Step 3: Create Flow for downloading from (S)FTP server to the connected file system](#step-3-create-flow-for-downloading-from-sftp-server-to-the-connected-file-system)  
+[Step 4: Run Demo Project](#step-4-run-demo-project)  
+[Step 5: Test downloadFtpFiles Flow](#step-5-test-downloadftpfiles-flow)  
+[Step 6: Create Flow for uploading files to FTP server](#step-6-create-flow-for-uploading-files-to-ftp-server)  
+[Step 7: Test uploadFtpFiles Flow](#step-7-test-uploadftpfiles-flow)  
+[XML Flow](#xml-flow)  
+[Other Resources](#other-resources)  
 
-[Prerequisites](#prerequisites)    
-[Step 1: Create Demo Project](#step1)   
-[Step 2: Configure the application](#step2)    
-[Step 3: Create Flow for downloading from (S)FTP server to the connected file system](#step3)    
-[Step 4: Run Demo Project](#step4)    
-[Step 5: Test downloadFtpFiles Flow](#step5)    
-[Step 6: Create Flow for uploading files to FTP server](#step6)    
-[Step 7: Test uploadFtpFiles Flow](#step7)    
-[Flow XML](#flowXML)    
-[Other Resources](#other)
 
 ### Prerequisites
 
@@ -127,7 +126,7 @@ The aim of this Flow is to upload files from the connected file system directory
 *    Open the (S)FTP client.
 *    You should see the new file in the (S)FTP server directory **localhost:22/ftpOutbound**. The file will be removed from  **/users/arbuzworks/inboundEndpoint** automatically.
 
-# XML Flow 
+### XML Flow 
 
 The final XML flow should look like that:
 
