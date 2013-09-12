@@ -4,15 +4,16 @@ The File connector allows files in the local file system to be read from and wri
 
 ### Contents 
 
-[Prerequisites.](#prerequisites)    
-[Step 1: Create Demo Project.](#step1)   
-[Step 2: Configure application.](#step2)  
-[Step 3: Create File Connector demo flow.](#step3)   
-[Step 4: Run project.](#step4)  
-[Step 5: Test File Connector demo flow.](#step5)  
-[Step 6: Expanded example. Move file.](#step6)  
-[Step 7: Test moving a file.](#step7)   
-[Other Resources.](#other)   
+[Prerequisites](#prerequisites)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Configure application](#step-2-configure-application)  
+[Step 3: Create File Connector demo flow](#step-3-create-file-connector-demo-flow)  
+[Step 4: Run project](#step-4-run-project)  
+[Step 5: Test File Connector demo flow](#step-5-test-file-connector-demo-flow)  
+[Step 6: Expanded example. Move file](#step-6-expanded-example-move-file)  
+[Step 7: Test moving a file](#step-7-test-moving-a-file)  
+[Other Resources](#other-resources)  
+ 
 
 ### Prerequisites
 
@@ -55,7 +56,7 @@ Adjust the fields as displayed on the following image. It is advised to uncheck 
 
 ![Configure application](images/step2-2.png)
 
-###Step 3: Create File Connector demo flow
+### Step 3: Create File Connector demo flow
 
 *    Switch to the **Message Flow** tab in the flow editor.
 *    Add a new flow by dragging it from the Palette.
@@ -108,7 +109,7 @@ You should see a log message on the console:
 
 *    Stop Mule server. 
 
-### Step 6: Expanded example. Move file.
+### Step 6: Expanded example. Move file
 
 The following example moves files from /tmp/input to /tmp/output every 5 second (5000 ms), saving a backup file of the original file (with the extension backup) in /tmp/backup. A new file is renamed with the current date and time as a prefix. Note that fileAge will prevent moving files that are still being generated as the file has to be untouched for at least half a second.
 
@@ -126,7 +127,7 @@ Fill in **Output Pattern** with "#[function:datestamp]-#[message.inboundProperti
 
 ![Expanded example. Move file.](images/step6-2.png)
 
-### Step 7: Test moving a file.
+### Step 7: Test moving a file
 
 *    Start the application as it is described on Step 4. Lets create a file (in our case "test.rtf") and insert there certain text. Then put the file to the input folder.
 
