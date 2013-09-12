@@ -2,14 +2,14 @@
 
 [Universal Datagram Protocol](http://en.wikipedia.org/wiki/User_Datagram_Protocol), or UDP, is a stateless protocol for sending or receiving large numbers of messages (datagrams) quickly. The UDP Connector in Mule allow sending messages to or receiving messages with Mule using UDP sockets.
 
-### Contents
 [Prerequisites](#prerequisites)  
-[Step 1: Create Demo Project](#step1)  
-[Step 2: Add Global Element](#step2)  
-[Step 3: Create UDP Echo Flow](#step3)  
-[Step 4: Test UDP Echo Flow](#step4)  
-[Flow XML](#flow)  
-[Other Resources](#resources)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Add Global Element](#step-2-add-global-element)  
+[Step 3: Create UDP Echo Flow](#step-3-create-udp-echo-flow)  
+[Step 4: Test UDP Echo Flow](#step-4-test-udp-echo-flow)  
+[XML Flow](#xml-flow)  
+[Other Resources](#other-resources)  
+
 
 
 ### Prerequisites

@@ -10,7 +10,7 @@ The SFTP Connector allows files to be read and written to and from directories o
 [Step 3: Create Flow for downloading from (S)FTP server to the connected file system](#step-3-create-flow-for-downloading-from-sftp-server-to-the-connected-file-system)  
 [Step 4: Run Demo Project](#step-4-run-demo-project)  
 [Step 5: Test downloadFtpFiles Flow](#step-5-test-downloadftpfiles-flow)  
-[Step 6: Create Flow for uploading files to FTP server](#step-6-create-flow-for-uploading-files-to-ftp-server)  
+[Step 6: Create Flow for uploading files to (S)FTP server](#step-6-create-flow-for-uploading-files-to-sftp-server)  
 [Step 7: Test uploadFtpFiles Flow](#step-7-test-uploadftpfiles-flow)  
 [XML Flow](#xml-flow)  
 [Other Resources](#other-resources)  

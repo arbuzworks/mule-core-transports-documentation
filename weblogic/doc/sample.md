@@ -9,18 +9,17 @@ JMS supports two models for messaging:
 
 Mule's JMS connector allows you to easily send and receive messages to queues and topics for any message service which implements JMS specification.
 
-### Contents 
+[Prerequisites](#prerequisites)  
+[Step 1: Weblogic environment setup](#step-1-weblogic-environment-setup)  
+[Step 2: Create Demo Project](#step-2-create-demo-project)  
+[Step 3: Configure application](#step-3-configure-application)  
+[Step 4: Create WeblogicQueueTesting flow](#step-4-create-weblogicqueuetesting-flow)  
+[Step 5: Run project](#step-5-run-project)  
+[Step 6: Test Weblogic queue](#step-6-test-weblogic-queue)  
+[Step 7: Create WeblogicTopicTesting flow](#step-7-create-weblogictopictesting-flow)  
+[Step 8: Test Weblogic topic](#step-8-test-weblogic-topic)  
+[Other Resources](#other-resources)  
 
-[Prerequisites](#prerequisites)    
-[Step 1: Weblogic environment setup](#step1)  
-[Step 2: Create Demo Project](#step2)   
-[Step 3: Configure application](#step3)     
-[Step 4: Create WeblogicQueueTesting flow](#step4)  
-[Step 5: Run project](#step5)   
-[Step 6: Test Weblogic queue](#step6)   
-[Step 7: Create WeblogicTopicTesting flow](#step7)     
-[Step 8: Test Weblogic topic](#step8)   
-[Other Resources](#other)   
 
 ### Prerequisites
 

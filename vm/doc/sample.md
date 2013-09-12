@@ -2,17 +2,12 @@
 
 The In Memory (VM) connector can be used for intra-JVM communication between Mule Flows. This connector by default uses in-memory queues but can optionally be configured to use persistent queues.
 
-### Contents 
-
-[Prerequisites](#prerequisites)    
-[Step 1: Create Demo Project](#step1)   
-[Step 2: Configure application](#step2)  
-[Step 3: Create File Connector demo flow](#step3)   
-[Step 4: Run project](#step4)  
-[Step 5: Test File Connector demo flow](#step5)  
-[Step 6: Expanded example. Move file.](#step6)  
-[Step 7: Test moving a file.](#step7)   
-[Other Resources](#other)   
+[Prerequisites](#prerequisites)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Configure application](#step-2-configure-application)    
+[Step 3: Run project](#step-3-run-project)  
+[Step 4: Test the project](#step-4-test-the-project)   
+[Other Resources](#other-resources)   
 
 ### Prerequisites
 

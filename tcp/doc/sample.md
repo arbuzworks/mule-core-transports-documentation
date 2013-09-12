@@ -2,16 +2,16 @@
 
 The TCP Connector allow sending or receiving messages over TCP connections. TCP is a layer over IP and used to implement many other reliable protocols such as HTTP and FTP. However, you may want to use the TCP transport directly if you require a specific protocol for reading the message payload that is not supported by one of these higher level protocols. This is often the case when communicating with legacy or native system applications that don't support web services.
 
-### Contents
 [Prerequisites](#prerequisites)  
-[Step 1: Create Demo Project](#step1)  
-[Step 2: Add Global Element](#step2)  
-[Step 3: Create TCP Polling Flow](#step3)  
-[Step 4: Test TCP Polling Flow](#step4)  
-[Step 5: Create TCP Echo Flow](#step5)  
-[Step 6: Test TCP Echo Flow](#step6)  
-[Flow XML](#flow)  
-[Other Resources](#resources)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Add Global Element](#step-2-add-global-element)  
+[Step 3: Create TCP Polling Flow](#step-3-create-tcp-polling-flow)  
+[Step 4: Test TCP Polling Flow](#step-4-test-tcp-polling-flow)  
+[Step 5: Create TCP Echo Flow](#step-5-create-tcp-echo-flow)  
+[Step 6: Test TCP Echo Flow](#step-6-test-tcp-echo-flow)  
+[XML Flow](#xml-flow)  
+[Other Resources](#other-resources)  
+
 
 
 ### Prerequisites

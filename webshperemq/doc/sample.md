@@ -4,16 +4,17 @@ IBM WebSphere MQ allows independent and potentially non-concurrent applications 
 
 ### Contents
 
-[Prerequisites](#prerequisites)    
-[Step 1: Create Demo Project](#step1)  
-[Step 2: Configure WMQ connector](#step2)  
-[Step 3: Configure AJAX connector](#step3)  
-[Step 4: Create InputJMS flow](#step4)  
-[Step 5: Create JMSProcessor flow](#step5)  
-[Step 6: Create OutputJMS flow](#step6)  
-[Step 7: Run project](#step7)
-[Step 8: Test application](#step8)  
-[Other Resources](#other)  
+[Prerequisites](#prerequisites)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Configure WMQ connector](#step-2-configure-wmq-connector)  
+[Step 3: Configure AJAX connector](#step-3-configure-ajax-connector)  
+[Step 4: Create InputJMS flow](#step-4-create-inputjms-flow)  
+[Step 5: Create JMSProcessor flow](#step-5-create-jmsprocessor-flow)  
+[Step 6: Create OutputJMS flow](#step-6-create-outputjms-flow)  
+[Step 7: Run project](#step-7-run-project)  
+[Step 8: Test application](#step-8-test-application)  
+[Other Resources](#other-resources)  
+
 
 ### Prerequisites
 
