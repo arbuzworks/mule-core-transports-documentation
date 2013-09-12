@@ -2,17 +2,17 @@
 
 Use Anypoint Service Registry™ connector to dynamically route outbound messages in a Mule application according to service virtualization rules.
 
-[Use Case](#use_case)  
-[Prerequisites](#prerequisites)    
-[Step 1: Configure Registry Token](#step1)  
-[Step 2: Examine Endpoint Details](#step2)    
-[Step 3: Create Demo Project](#step3)   
-[Step 4: Flow Configuration](#step4)    
-[Step 5: Run Project](#step5)   
-[Step 6: Test Application](#step6)  
-[Other Resources](#other)   
+[Use Case](#use-case)   
+[Prerequisites](#prerequisites)   
+[Step 1: Configure Registry Token](#step-1-configure-registry-token)  
+[Step 2: Examine Endpoint Details](#step-2-examine-endpoint-details)  
+[Step 3: Create Demo Project](#step-3-create-demo-project)  
+[Step 4: Flow Configuration](#step-4-flow-configuration)  
+[Step 5: Run Project](#step-5-run-project)  
+[Step 6: Test Application](#step-6-test-application)  
+[Other Resources](#other-resources)   
 
-### <a id="use_case"></a>Use Case
+### Use Case
 
 GFS (Global Freight Service) signs short-term contracts with other shipping vendors to deliver packages to rural areas that are cost-prohibitive for GFS to service via standard delivery channels. These vendors are frequently changed based on which vendor offers the most cost-effective options. For example, in January, all subcontracted delivery in the South American region may be handled by Vendor 1. In February, Vendor 1 may have its contract renewed, or Vendor 2 may have won the contract for that month, or both vendors might have active contracts in that region, so GFS can use either vendor. GFS must ensure that all its shipping applications and services always work with the appropriate subcontractor assigned for their region without having to manually look up current vendor assignments.
 
@@ -20,7 +20,7 @@ GFS has developed the Regional Vendor Assignment service, which, when queried, r
 
 Anypoint Service Registry enables service calls to be routed dynamically to endpoints at runtime through [service virtualization](http://stage.mulesoft.org/documentation/display/current/Service+Virtualization).
 
-### <a id="prerequisites"></a>Prerequisites
+### Prerequisites
 
 In order to build and run this project you'll need:
 
@@ -31,7 +31,7 @@ In order to build and run this project you'll need:
 
 **Further explanation will be introduced implying that you have your registry account pre-populated with sample data.**
 
-### <a id="step1"></a>step1: Configure Registry Token
+### Step 1: Configure Registry Token
 
 1.  Navigate to [http://registry.mulesoft.com](http://registry.mulesoft.com) then enter your MuleSoft community login credentials. 
 2.  Click the **Administration** icon ![Administration icon](images/ASR_administration_icon.png) in the top navigation bar, then click **Agent Tokens**. (Note that the Administration icon is visible only to users with [administrator](http://stage.mulesoft.org/documentation/display/current/Account+Types+and+User+Roles) – organization owner – accounts.)
@@ -44,7 +44,7 @@ In order to build and run this project you'll need:
 9.  In the **Host** field, type ``agent-registry.mulesoft.com``.
 10. Leave the **Port** and **Path** defaults as they are and click **OK**. 
 
-### <a id="step2"></a>step2: Examine Endpoint Details
+### Step 2: Examine Endpoint Details
 
 Navigate to this service in Anypoint Service Registry and examine the details of the endpoints.
 
@@ -61,7 +61,7 @@ As the service owner (or as an administrator), you can add, change or delete met
 
 Any consumers that send service calls should include the correctly-formatted regional metadata in their service calls. Anypoint Service Registry compares the metadata against all the endpoints in the registry and dynamically resolves the request based on the endpoint metadata at the time that the service call occurs. For example, a service call which includes key="region" value="NorthAmerica” invokes the endpoint for Vendor 1, because that one is currently tagged with the region "NorthAmerica" in the registry. 
 
-### <a id="step3"></a>step3: Create Demo Project
+### Step 3: Create Demo Project
 
 *    Run Mule Studio and select **File \> New \> Mule Project** menu item.  
 *    Type **demo** as a project name and click **Next**.  
@@ -76,7 +76,7 @@ Any consumers that send service calls should include the correctly-formatted reg
 
 ![Create Demo project](images/step3-3.png)
 
-### <a id="step4"></a>step4: Flow Configuration   
+### Step 4: Flow Configuration   
 
 *    Switch to the **Message Flow** tab in the flow editor. 
 *    Add a new flow by dragging it from the Palette.  
@@ -112,7 +112,7 @@ Any consumers that send service calls should include the correctly-formatted reg
 
 Save the flow. 
 
-### <a id="step5"></a>Step 5: Run Project
+### Step 5: Run Project
 
 *    Right Click **src/main/app/demo.xml \> Run As/Mule Application**.
 
@@ -126,7 +126,7 @@ You should see a log message on the console:
     + Started app 'demo'                                       +    
     ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   
 
-### <a id="step6"></a>Step 6: Test Application
+### Step 6: Test Application
 
 1.  When the application is started, open a browser window and navigate to [http://localhost:8090/](http://localhost:8090/)
 2.  You should see a message reading ``"Dynamic Router chose Vendor 1."`` Confirm this is the correct vendor for the North American region by returning to Anypoint Service Registry and checking the metadata assigned to the first endpoint.
@@ -155,7 +155,7 @@ Next, assume that you are the service owner or the administrator of the vendor a
   *   Refresh several times and watch the message on the screen.
   *   Upon each refresh, the browser should alter the messages ``"Dynamic Router chose Vendor 1."`` and ``"Dynamic Router chose Vendor 2."`` Anypoint Service Registry is directing the service calls to the matching endpoints based on the Round-Robin algorithm enabled in the configuration. 
 
-### <a id="other"></a>Other Resources
+### Other Resources
 
 For more information on:
 

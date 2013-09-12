@@ -7,7 +7,7 @@ in the cloud, you can integrate it with Mule ESB on-premise or CloudHub platform
 
 [Prerequisites](#prerequisites)    
 [Step 1: Anypoint Service Registry Installation Guide](#step-1-anypoint-service-registry-installation-guide)    
-[Step 2: Anypoint Service Registry Walkthrough](#step-2-anypoint-service-registry-walkthrough) 
+[Step 2: Anypoint Service Registry Walkthrough](#step-2-anypoint-service-registry-walkthrough) 	
 [Other Resources](#other-resources)   
 
 ### Prerequisites
