@@ -5,14 +5,14 @@ Apache ActiveMQ is a popular open source messaging provider which is easy to int
 ### Contents
 
 [Prerequisites](#prerequisites)    
-[Step 1: Create Demo Project](#step1)  
-[Step 2: Configure ActiveMQ connector](#step2)  
-[Step 3: Create newQueue flow](#step3)  
-[Step 4: Run project](#step4)   
-[Step 5: Test newQueue flow](#step5)  
-[Step 6: Create newTopic flow](#step6)  
-[Step 7: Test newTopic flow](#step7)  
-[Other Resources](#other)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Configure ActiveMQ connector](#step-2-configure-activemq-connector)  
+[Step 3: Create newQueue flow](#step-3-create-newqueue-flow)  
+[Step 4: Run project](#step-4-run-project)   
+[Step 5: Test newQueue flow](#step-5-test-newqueue-flow)  
+[Step 6: Create newTopic flow](#step-6-create-newtopic-flow)  
+[Step 7: Test newTopic flow](#step-7-test-newtopic-flow)  
+[Other Resources](#other-resources)  
 
 ### Prerequisites
 
