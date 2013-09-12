@@ -4,13 +4,14 @@ This example illustrates Mule ESB's ability to transform files from Excel format
 
 ### Contents 
 
-[Prerequisites](#prerequisites)    
-[Step 1: Create Demo Project](#step1)   
-[Step 2: Configure application](#step2)  
-[Step 3: Create excel_to_csv flow](#step3)   
-[Step 4: Run project](#step4)   
-[Step 5: Test excel_to_csv flow](#step5)   
-[Other Resources](#other)   
+[Prerequisites](#prerequisites)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Configure application](#step-2-configure-application)  
+[Step 3: Create excel_to_csv flow](#step-3-create-excel_to_csv-flow)  
+[Step 4: Run project](#step-4-run-project)  
+[Step 5: Test excel_to_csv flow](#step-5-test-excel_to_csv-flow)  
+[Other Resources](#other-resources)  
+
 
 ### Prerequisites
 
