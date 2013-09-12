@@ -11,7 +11,7 @@ The IMAP Connector can be used for receiving messages from IMAP inboxes using th
 [Prerequisites](#prerequisites)  
 [Step 1: Create Demo Project](#step-1-create-demo-project)  
 [Step 2: Configure application](#step-2-configure-application)  
-[Step 3: Create outcomingSmtp flow](#step-3-create-outcomingsmpt-flow)  
+[Step 3: Create outcomingSmtp flow](#step-3-create-outcomingsmtp-flow)  
 [Step 4: Run project](#step-4-run-project)  
 [Step 5: Test outcomingSmtp flow](#step-5-test-outcomingsmtp-flow)  
 [Step 6: Create incomingPop3 flow](#step-6-create-incomingpop3-flow)  

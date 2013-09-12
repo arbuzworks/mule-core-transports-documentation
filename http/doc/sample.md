@@ -6,16 +6,15 @@ Mule uses HTTP Endpoints to send and receive requests over HTTP transport protoc
 
 ### Contents
 
-1. [Related Documentation and Examples](#docs)  
-2. [Hello, Mule Example](#hello)    
-3. [Serving a Static File](#static)  
-4. [HTTP Outbound Endpoint](#out)  
-  - [Proxy Configuration for HTTP Endpoint](#proxy)
-5. [HTTPS Server Configuration](#https)    
-6. [Other Resources](#resources)  
+[Step 1: Related Documentation and Examples](#step-1-related-documentation-and-examples)  
+[Step 2: Hello, Mule Example](#step-2-hello-mule-example)  
+[Step 3: Serving a Static File](#step-3-serving-a-static-file)  
+[Step 4: HTTP Outbound Endpoint](#step-4-http-outbound-endpoint)  
+[Step 5: HTTPS Server Configuration](#step-5-https-server-configuration)  
+[Other Resources](#other-resources)  
 
 
-### Related Documentation and Examples 
+### Step 1: Related Documentation and Examples 
 
 - If you are new to Mule Studio, please read how to [create and then run the example application in Mule Studio](http://www.mulesoft.org/documentation/display/current/Mule+Examples#MuleExamples-CreateandRunExampleApplications).
 
@@ -27,7 +26,7 @@ Mule uses HTTP Endpoints to send and receive requests over HTTP transport protoc
 This document describes 4 simple flows that use HTTP\HTTPS connector.
 
 
-### Hello Mule Example
+### Step 2: Hello Mule Example
 
 In this example we will modify the **Hello World** application referenced above to use the request parameters and log their values.
 
@@ -69,7 +68,7 @@ Also, note the **Logger** output in the Console.
 
 - Stop the Mule server by clicking on the **Terminate** button in the Mule Studio console.
 
-### Serving a Static File
+### Step 3: Serving a Static File
 
 This example demonstrates how to return a static file for an HTTP request.
 
@@ -96,7 +95,7 @@ Run the project and point your browser to the endpoint's URL [http://localhost:8
 
 ![Test static flow](images/static-test.png)
 
-### HTTP Outbound Endpoint
+### Step 4: HTTP Outbound Endpoint
 
 In this example we will use an HTTP Endpoint for querying an external website. We will forward the query string to Google and display the search results.
 
@@ -143,7 +142,7 @@ In order to use this global proxy configuration, switch back to the **Message Fl
 ![Apply Proxy Settings](images/google-proxy-apply.png)
 
 
-### HTTPS Server Configuration
+### Step 5: HTTPS Server Configuration
 In order to setup an HTTPS server, you need to create a keystore. Detailed instructions on how to work with the keys can be found in [Oracle Documentation](http://docs.oracle.com/javase/7/docs/technotes/guides/security/jsse/JSSERefGuide.html#CreateKeystore). For this example, however, we only need one command to be executed: 
 
 	keytool -genkey -alias mule -keyalg RSA -keystore keystore.jks  

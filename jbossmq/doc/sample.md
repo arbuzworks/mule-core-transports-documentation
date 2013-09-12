@@ -4,15 +4,16 @@ JMS (Java Message Service) is a widely-used API for Message Oriented Middleware.
 
 ### Contents
 
-[Prerequisites](#prerequisites)    
-[Step 1: Create Demo Project](#step1)  
-[Step 2: Configure JMS_JBoss connector](#step2)  
-[Step 3: Create testQueue flow](#step3)  
-[Step 4: Run project](#step4)   
-[Step 5: Test newQueue flow](#step5)  
-[Step 6: Create newTopic flow](#step6)  
-[Step 7: Test newTopic flow](#step7)  
-[Other Resources](#other)  
+[Prerequisites](#prerequisites)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Configure JMS_JBoss connector](#step-2-configure-jms_jboss-connector)  
+[Step 3: Create testQueue flow](#step-3-create-testqueue-flow)  
+[Step 4: Run project](#step-4-run-project)  
+[Step 5: Test newQueue flow](#step-5-test-newqueue-flow)  
+[Step 6: Create newTopic flow](#step-6-create-newtopic-flow)  
+[Step 7: Test newTopic flow](#step-7-test-newtopic-flow)  
+[Other Resources](#other-resources)  
+
 
 ### Prerequisites
 

@@ -4,14 +4,15 @@ Jetty Connector allows Mule to expose Mule Services over HTTP using a Jetty HTTP
 
 ### Contents
 
-[Prerequisites](#prerequisites)    
-[Step 1: Create Demo Project](#step1)  
-[Step 2: Create JettyHello flow](#step2)  
-[Step 3: Run project](#step3)  
-[Step 4: Test JettyHello flow](#step4)  
-[Step 5: Create JettyStatic flow](#step4)  
-[Step 6: Test JettyStatic flow](#step6)  
-[Other Resources](#other)  
+[Prerequisites](#prerequisites)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Create JettyHello flow](#step-2-create-jettyhello-flow)  
+[Step 3: Run project](#step-3-run-project)  
+[Step 4: Test JettyHello flow](#step-4-test-jettyhello-flow)  
+[Step 5: Create JettyStatic flow](#step-5-create-jettystatic-flow)  
+[Step 6: Test JettyStatic flow](#step-6-test-jettystatic-flow)  
+[Other Resources](#other-resources)  
+
 
 ### Prerequisites
 

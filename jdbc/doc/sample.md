@@ -4,18 +4,19 @@ The JDBC Connector allows you to send and receive messages with a database using
 
 ### Contents 
 
-[Prerequisites](#prerequisites)    
-[Step 1: Prepare database](#step1)    
-[Step 2: Create Demo Project](#step2)   
-[Step 3: Configure application](#step3)  
-[Step 4: Create listItems flow](#step4)   
-[Step 5: Run project](#step5)   
-[Step 6: Test listItems flow](#step6)   
-[Step 7: Create createItem flow](#step7)   
-[Step 8: Test createItem flow](#step8)   
-[Step 9: Create flows for rest actions (Update, Delete, Find by ID)](#step9)   
-[Step 10: Test  updateItem, deleteItem and findById flows](#step10)   
-[Other Resources](#other)   
+[Prerequisites](#prerequisites)  
+[Step 1: Prepare database](#step-1-prepare-database)  
+[Step 2: Create Demo Project](#step-2-create-demo-project)  
+[Step 3: Configure application](#step-3-configure-application)  
+[Step 4: Create listItems flow](#step-4-create-listitems-flow)  
+[Step 5: Run project](#step-5-run-project)  
+[Step 6: Test listItems flow](#step-6-test-listitems-flow)  
+[Step 7: Create createItem flow](#step-7-create-createitem-flow)  
+[Step 8: Test createItem flow](#step-8-test-createitem-flow)  
+[Step 9: Create flows for rest actions (Update, Delete, Find by ID)](#step-9-create-flows-for-rest-actions-update-delete-find-by-id)  
+[Step 10: Test updateItem, deleteItem and findById flows](#step-10-test-updateitem-deleteitem-and-findbyid-flows)  
+[Other Resources](#other-resources)  
+
 
 ### Prerequisites
 
