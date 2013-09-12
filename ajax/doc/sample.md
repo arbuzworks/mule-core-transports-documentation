@@ -5,12 +5,12 @@ The Mule AJAX Connector allows Mule events to be sent and received asynchronousl
 ### Contents
 
 [Prerequisites](#prerequisites)    
-[Step 1: Create Demo Project](#step1)  
-[Step 2: Configure AJAX Connector](#step2)  
-[Step 3: Create AjaxChat flow](#step3)  
-[Step 4: Run project](#step4)  
-[Step 5: Test AjaxEcho flow](#step4)  
-[Other Resources](#other)  
+[Step 1: Create Demo Project](#step-1-create-demo-project)  
+[Step 2: Configure AJAX Connector](#step-2-configure-ajax-connector)  
+[Step 3: Create AjaxChat flow](#step-3-create-ajaxchat-flow)  
+[Step 4: Run project](#step-4-run-project)  
+[Step 5: Test AjaxEcho flow](#step-5-test-ajaxecho-flow)  
+[Other Resources](#other-resources)  
 
 ### Prerequisites
 
