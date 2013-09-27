@@ -1,6 +1,6 @@
 # GitHub Connector
 
-[Purpose](#purpose)	
+[Purpose](#purpose)		
 [Prerequisites](#prerequisites)    
 [Step 1: Prepare database](#step-1-install-mule-gitHub-connector-from-update-site)    
 [Step 2: Create Demo Project](#step-2-create-demo-project)   
