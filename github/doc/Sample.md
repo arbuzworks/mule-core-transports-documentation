@@ -2,9 +2,9 @@
 
 [Purpose](#purpose)		
 [Prerequisites](#prerequisites)    
-[Step 1: Prepare database](#step-1-install-mule-gitHub-connector-from-update-site)    
+[Step 1: Prepare database](#step-1-install-mule-github-connector-from-update-site)    
 [Step 2: Create Demo Project](#step-2-create-demo-project)   
-[Step 3: Configure GitHub Cloud Connector](#step-3-configure-gitHub-cloud-connector)  
+[Step 3: Configure GitHub Cloud Connector](#step-3-configure-github-cloud-connector)  
 [Step 4: Create createRepository flow](#step-4-create-createrepository-flow)  
 [Step 5: Run project](#step-5-run-project)   
 [Step 6: Test createRepository flow](#step-6-test-createrepository-flow)    
